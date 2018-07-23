@@ -1,1 +1,1 @@
-# GLB001
+# Proyecto realizado por la comisión GLB001
